@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ParcelableSerializable</string>
+    <string name="test_string"></string>
+</resources>
